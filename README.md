@@ -1,4 +1,4 @@
-# Tourism_Landing_Page
+# Landing_Page
 This HTML and CSS code represents a landing page for a travel and tourism website. The page is designed to provide information about the travel services offered by the company and encourage users to book their trips.
 The structure of the page consists of several sections:
 
